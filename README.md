@@ -1,4 +1,4 @@
-# Analyze AB Test Results
+# Analyze A/B Test Results
 Within the framework this project, we tried to understand whether the company should implement a new page or keep the old page with following:
 
 - Probability based approach.
